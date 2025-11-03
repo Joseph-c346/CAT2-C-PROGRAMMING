@@ -1,6 +1,6 @@
 /*
-Name:Gerishon karanja
-reg:PA106/G/29211/25
+Name:JOSEPH MUSE WABUGE
+reg:PA106/G/29042/25
 Description:program to print gross pay,tax&net pay
 */
 
@@ -39,4 +39,5 @@ int main() {
     printf("Net Pay: $%.2f\n", net_pay);
 
     return 0;
+
 }
