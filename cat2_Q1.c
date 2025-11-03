@@ -1,6 +1,6 @@
 /*
-name:Gerishon Karanja
-Reg:PA106/G/29211/25
+name:JOSEPH MUSE WABUGE
+Reg:PA106/G/29042/25
 Descrition:program to declare and print a 2D array using nested for loop
 
 
@@ -54,4 +54,5 @@ int main() {
     }
 
     return 0;
+
 }
