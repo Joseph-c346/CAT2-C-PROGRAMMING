@@ -1,6 +1,6 @@
 /*
-Name:Gerishon Karanja
-Reg:PA106/G/29211/25
+Name:JOSEPH MUSE WABUGE
+Reg:PA106/G/29042/25
 */
 
 #include <stdio.h>
@@ -89,4 +89,5 @@ int main() {
     processInputFile();
     displayFiles();
     return 0;
+
 }
